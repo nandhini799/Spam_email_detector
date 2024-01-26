@@ -24,3 +24,4 @@ The Multinomial Naive Bayes model performed well with high accuracy and precisio
 spam SMS messages. In the future, further optimization, hyperparameter tuning, and the exploration of other advanced models could be considered to enhance the model's performance. 
 Additionally, monitoring and updating the model with new data will contribute to its ongoing reliability.
 
+<img width="1462" alt="Spam Mail" src="https://github.com/nandhini799/Spam_email_detector/assets/153508488/ab566c76-fad5-4253-ae8c-48558d8d3b76">
